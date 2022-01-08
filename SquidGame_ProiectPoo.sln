@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquidGame_ProiectPoo", "SquidGame_ProiectPoo\SquidGame_ProiectPoo.vcxproj", "{97E8EF23-DD02-4B54-869B-29F5037C9FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Debug|x64.ActiveCfg = Debug|x64
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Debug|x64.Build.0 = Debug|x64
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Debug|x86.Build.0 = Debug|Win32
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Release|x64.ActiveCfg = Release|x64
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Release|x64.Build.0 = Release|x64
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Release|x86.ActiveCfg = Release|Win32
+		{97E8EF23-DD02-4B54-869B-29F5037C9FFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC542CF-FAC8-4FD7-B582-2361DE266E53}
+	EndGlobalSection
+EndGlobal
